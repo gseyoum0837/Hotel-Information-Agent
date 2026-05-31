@@ -1,7 +1,7 @@
-# Hotel-Information-Agent
+#Hotel-Information-Agent
 An AI Agent that answers guest questions for a Boutique Hoel
-#
-#Features
+
+##Features
 - Answering question about amenities
 - Answering question about reservations
 - Answering questions about check out and chek in
